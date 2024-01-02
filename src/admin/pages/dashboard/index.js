@@ -1,0 +1,17 @@
+export * from "../../pages/dashboard/gallery";
+export * from "../../pages/dashboard/imageCuaca";
+export * from "../../pages/dashboard/pegawai";
+// export * from "../../pages/dashboard/wisata";
+export * from "../../pages/dashboard/berita";
+export * from "../../pages/dashboard/buletin";
+export * from "../../pages/dashboard/peringatan";
+export * from "../../pages/dashboard/kritikSaran";
+export * from "../../pages/dashboard/cuacaHariIni";
+export * from "../../pages/dashboard/cuacaBesok";
+export * from "../../pages/dashboard/analisisCurahHujan";
+export * from "../../pages/dashboard/analisisSifatHujan";
+export * from "../../pages/dashboard/prakiraanCurahHujan";
+export * from "../../pages/dashboard/hariTanpaHujan";
+export * from "../../pages/dashboard/NormalMusim";
+export * from "../../pages/dashboard/welcome";
+export * from "../../pages/dashboard/tourism";

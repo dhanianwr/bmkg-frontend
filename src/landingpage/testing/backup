@@ -1,0 +1,10 @@
+// const deleteBuletin = async(buletinId) => {
+     //   try {
+     //     await axios.delete(`http://localhost:5000/images/${buletinId}`);
+     //     getBuletin();
+     //   } catch (error) {
+     //     console.log(error);
+     //   }
+     // }
+
+     {/* <Cardbuletin src={buletins.url} title={buletins.name} button={'tes'}/> */}
